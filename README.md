@@ -147,7 +147,7 @@ https://github.com/d3/d3-scale-chromatic
 
 ## Assignment #12
 ### Notes
-All visualizations are correctly rendering in Google Chrome. These visualizations show vector field via color mapping and glyphs
+All visualizations are correctly rendering in Google Chrome. These visualizations show vector fields via color mapping and glyphs.
 
 
 ### Included files
