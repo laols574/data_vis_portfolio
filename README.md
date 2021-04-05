@@ -7,7 +7,7 @@ tar -xvf data_vis_portfolio.tar.gz
 
 on the command line
 
-## Assignment #4: 
+## Some Basic D3 Plots(Assignment #4): 
 ### Notes
 All four visualizations were rendering properly on Google Chrome. They all represent different variations of statistics for displaying UK driver fatality data and student scores data set. 
 
@@ -25,7 +25,7 @@ https://cscheid.net/courses/fall-2019/csc444/lectures/lecture4/iteration_8.html
 https://www.sitepoint.com/a-beginners-guide-to-data-binding-in-d3-js/
 
 
-## Assignment #5
+## Scales, Axes, Transitions(Assignment #5):
 ### Notes
 This file was rendering correctly in Google Chrome. All three buttons, as 
 well as the two extra buttons for the extra credit, were providing accurate
@@ -55,7 +55,7 @@ For transitions:
 - https://github.com/d3/d3-transition
 
 
-## Assignment #7
+## Linked Views, Brushing(Assignment #7):
 
 ### Notes
 Graphs are rendering properly in Chrome. Brushing and linking is working in Chrome. This graph shows the "Iris" dataset, displaying the relationship between sepal and petal traits as well as species.  
@@ -77,7 +77,7 @@ https://github.com/d3/d3-selection
 https://observablehq.com/@d3/mona-lisa-histogram
 https://bl.ocks.org/johnnygizmo/3d593d3bf631e102a2dbee64f62d9de4
 
-## Assignment #8
+## Parallel Coordinates(Assignment #8):
 ### Notes
 Visualization correctly renders in Google Chrome. This visualization shows a parallel coordinates diagram, where more "crossing" between axes shows a negative relationship and "parallel" lines show a positive relationship.
 
@@ -91,7 +91,7 @@ Visualization correctly renders in Google Chrome. This visualization shows a par
 
 ### References
 
-## Assignment #9
+## Treemaps(Assignment #9):
 
 ### Notes
 All four buttons and their respective renderings are rendering in Google Chrome. This visualization shows a tree map, a conduit for showing tree data, of the "Flare" dataset, which is a hierarchy of a file system.
@@ -109,7 +109,7 @@ All four buttons and their respective renderings are rendering in Google Chrome.
 ### References
 * https://jalevine.bitbucket.io/csc444/assignments/2020/03/25/A09.html
 
-## Assignment #10
+## Marching Squares(Assignment #10):
 
 ### Notes
 All four visualizations correctly render in Google Chrome. These visualizations show isocontours for hurricane data. 
@@ -126,7 +126,7 @@ All four visualizations correctly render in Google Chrome. These visualizations 
 https://jalevine.bitbucket.io/csc444/lectures/2020/04/06/L21.html
 
 
-## Assignment #11
+## Transfer Functions (Assignment #11):
 
 ### Notes
 Visualization is rendering as necessitated in Google Chrome. This visualization is an editable transfer function which can be used to show a few different sets of flow data. 
@@ -145,7 +145,7 @@ Visualization is rendering as necessitated in Google Chrome. This visualization 
 https://bl.ocks.org/denisemauldin/538bfab8378ac9c3a32187b4d7aed2c2
 https://github.com/d3/d3-scale-chromatic
 
-## Assignment #12
+## Flow Visualization (Assignment #12):
 ### Notes
 All visualizations are correctly rendering in Google Chrome. These visualizations show vector fields via color mapping and glyphs.
 
